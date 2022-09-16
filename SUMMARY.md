@@ -7,3 +7,7 @@
 ## Events
 
 * [Events](events/events.md)
+
+## Blocks
+
+* [Blocks](blocks/blocks.md)
