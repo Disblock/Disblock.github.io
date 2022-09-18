@@ -11,3 +11,4 @@
 ## Blocks
 
 * [Blocks](blocks/blocks.md)
+* [Embeds blocks](blocks/embeds-blocks.md)
