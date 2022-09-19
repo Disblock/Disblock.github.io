@@ -31,6 +31,7 @@ Here is a list of available types in DIsblock :
 | TextChannel   | A text channel within your server.                                         |
 | VoiceChannel  | A voice channel within your server.                                        |
 | ThreadChannel | A Thread channel within a text channel.                                    |
+| Category      | A category within your server.                                             |
 | Message       | A message sent by an user.                                                 |
 | EmbedMessage  | An embed message, to send somewhere on your server.                        |
 | Rank          | Also called Role.                                                          |

@@ -23,4 +23,4 @@ If you want to share your knowledge about the bot, and are willing to help other
 
 ### Reporting bugs
 
-When creating such large applications, there will always be some mistakes. The majority are found and corrected during tests, but few of them may still be undetected. If you found a bug, you can open an issue on the related Github repository, or send an email to `contact@disblock.xyz` if you found a security error.
+When creating such large applications, there will always be some mistakes. The majority are found and corrected during tests, but few of them may still be undetected. If you found a bug, you can open an issue on the related Github repository, contact us on Discord, or send an email to `contact@disblock.xyz` if you found a security vulnerability.
