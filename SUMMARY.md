@@ -13,3 +13,7 @@
 * [Blocks](blocks/blocks.md)
 * [Embeds blocks](blocks/embeds-blocks.md)
 * [Temporary variables blocks](blocks/temporary-variables-blocks.md)
+
+## miscellaneous
+
+* [How to get the Discord ID of something](miscellaneous/how-to-get-the-discord-id-of-something.md)
