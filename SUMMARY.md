@@ -17,3 +17,4 @@
 ## miscellaneous
 
 * [How to get the Discord ID of something](miscellaneous/how-to-get-the-discord-id-of-something.md)
+* [Troubleshooting](miscellaneous/troubleshooting.md)
