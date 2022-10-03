@@ -2,6 +2,7 @@
 
 * [Disblock Documentation](README.md)
 * [Getting Started](getting-started.md)
+* [First steps](first-steps.md)
 * [Supporting](supporting.md)
 
 ## Events
