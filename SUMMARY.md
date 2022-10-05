@@ -5,6 +5,10 @@
 * [First steps](first-steps.md)
 * [Supporting](supporting.md)
 
+## Dashboard
+
+* [Logs](dashboard/logs.md)
+
 ## Events
 
 * [Events](events/events.md)

@@ -10,6 +10,10 @@ After finally finishing to work in the editor, you try to execute what you worke
 
 Very common, the bot doesn't have the needed access to execute your action flow. Check the permissions that you gave to the bot, globally and in the channels where you want something to be done. You can also fix these errors by giving an Administrator permission.
 
+{% hint style="warning" %}
+Some events require the `View Audit Logs` permission. We need this to differentiate events triggered by users or another bots.
+{% endhint %}
+
 ### Temporary variables errors
 
 When using these variables, you should always check that you gave the same name when you saved and used this variable. Also, check that your variable is of the same type of the input where you're using it. When using multiple variables, a frequent mistake is to give the same name to two different variables. This will delete the first one, and you will get the values of the second one when calling the first variable.
@@ -22,7 +26,7 @@ When using these variables, you should always check that you gave the same name 
 
 Sometimes, when using Discord IDs, you may incorrectly copy-paste them. Check that you copied the right ID for the right Block. For example, a Role ID won't work in a Channel block. Also check that you didn't accidentally added something at the start or end of the ID. An ID should only be composed of numbers, from 0 to 9.
 
-{% hint style="warning" %}
+{% hint style="info" %}
 Despite looking like big numbers, IDs are used like Strings in Disblock.
 {% endhint %}
 

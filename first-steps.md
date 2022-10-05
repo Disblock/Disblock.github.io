@@ -52,6 +52,10 @@ The workspace should now looks like this :&#x20;
 
 Now, this example is complete ! You can save it with the button under the editor, and send a message somewhere in your Discord server to see the result !
 
+{% hint style="info" %}
+If that don't seems to work, check the permissions that you gave to the bot. You can also read the Troubleshooting page.
+{% endhint %}
+
 If you want, you can try Disblock by modifying this action flow ! Here is a small example :&#x20;
 
 <figure><img src=".gitbook/assets/WorkspaceFirstFlow3.PNG" alt=""><figcaption><p>Here, we get the user who sent the message, and check if he has an Administrator permission. If yes, we reply with his nickname + "is an administrator". If the user isn't an admin, we just react with ❌.</p></figcaption></figure>
