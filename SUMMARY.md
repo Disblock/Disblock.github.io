@@ -8,6 +8,7 @@
 ## Dashboard
 
 * [Logs](dashboard/logs.md)
+* [Rollbacks](dashboard/rollbacks.md)
 
 ## Events
 
