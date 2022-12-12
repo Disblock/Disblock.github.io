@@ -19,6 +19,7 @@
 * [Blocks](blocks/blocks.md)
 * [Embeds blocks](blocks/embeds-blocks.md)
 * [Temporary variables blocks](blocks/temporary-variables-blocks.md)
+* [Slash commands](blocks/slash-commands.md)
 
 ## miscellaneous
 
