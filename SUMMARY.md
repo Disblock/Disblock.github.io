@@ -25,3 +25,8 @@
 
 * [How to get the Discord ID of something](miscellaneous/how-to-get-the-discord-id-of-something.md)
 * [Troubleshooting](miscellaneous/troubleshooting.md)
+
+## Terms & privacy policy
+
+* [Terms of Use](terms-and-privacy-policy/terms-of-use.md)
+* [Privacy Policy](terms-and-privacy-policy/privacy-policy.md)
