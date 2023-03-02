@@ -23,7 +23,7 @@ Disblock reserves the right to update or modify these terms of use at any time. 
 
 ## Privacy Policy
 
-You can learn more about how we collect and manage data on the dedicated page :
+By using the Services, you also agree to the Privacy Policy. You can learn more about how we collect and manage data on the dedicated page :
 
 {% content-ref url="privacy-policy.md" %}
 [privacy-policy.md](privacy-policy.md)
