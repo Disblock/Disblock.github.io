@@ -10,13 +10,16 @@ Welcome to Disblock's Privacy Policy. Protecting your personal information is im
 
 * Users' **IP addresses**
   * We collect IP addresses to monitor and prevent abuse of our Services.
-* Users' **usernames**, Discord ID, **profile pictures**, and tokens
-  * Usernames, profile pictures and IDs are used to represent the user across the Services.
+* Users' Discord ID, and tokens
+  * IDs are used to represent the user across the Services.
+  * Usernames and avatars are cached during the session, but are deleted once you log out the website.
   * Tokens are used to log users in on the website and get information about users and their servers from Third-Party Services.
-* Servers' **names** and Discord ID
-  * When the bot is added to a new server, we store the name and ID of this server in order to represent this server across the Services.
-  * We may store for a very short term the server icon, and Users' permissions on Servers.
+* Servers' ID
+  * When the bot is added to a new server, we store the ID of this server in order to represent this server across the Services.
+  * We may store for a very short term the server name, icon, and Users' permissions on Servers.
   * Disblock never store content of messages, or anything else related to your server, except information specified here.
+* Content generated bu Users
+  * We store workspaces created by users, which are used by the bot to realize actions and commands.
 
 ## How we store collected data
 
@@ -25,6 +28,10 @@ Users' tokens, which allow to access personal data from Third-Party Services are
 Information that need to be stored for a short term are stored using [Redis](https://redis.io/).
 
 We will never share your personal data to Third-Party Services, except when necessary to comply with applicable law.
+
+## How long do we store data ?
+
+The data is stored as long as you use the Services. You can request the deletion of your data at any time.
 
 ## How to access, update or delete my personal data
 
