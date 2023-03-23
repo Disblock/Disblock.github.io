@@ -21,6 +21,12 @@ Welcome to Disblock's Privacy Policy. Protecting your personal information is im
 * Content generated bu Users
   * We store workspaces created by users, which are used by the bot to realize actions and commands.
 
+{% hint style="info" %}
+The Bot can access the content of messages that are sent on your Discord server. However, the content of messages if only read by the bot when you use the "_Get message content_" block in your editor. \
+In all cases, we will never read, store or use the content of your messages for any purpose other than providing the functionality of the bot and fulfilling its intended purpose on your Discord server.\
+Messages' content are never saved automatically, but only if you choose to save them in a _data storage_, in the editor.
+{% endhint %}
+
 ## How we store collected data
 
 Disblock stores all data in a [PostgreSQL](https://www.postgresql.org/) database hosted in Germany. We take data security and privacy very seriously, and have implemented measures to ensure that personal data is stored safely and securely.\
