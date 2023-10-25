@@ -6,10 +6,6 @@ description: ~(^-^)~
 
 Disblock also support Discord's slash commands ! You will learn everything about these on this page
 
-{% hint style="info" %}
-This system is currently in beta, if you come across a bug, please, report it on the Discord support server, on GitHub or by email. This feature may be modified or disabled anytime if we need to.
-{% endhint %}
-
 ## Global commands
 
 These commands are available on every servers where Disblock is working. Here are available global commands :&#x20;
@@ -29,7 +25,7 @@ In addition to the global commands, you can create slash commands on your server
 
 Every custom slash commands will have to be defined, with this block :
 
-<figure><img src="../.gitbook/assets/SlashCommandsEditorBlock.PNG" alt=""><figcaption><p>The command creator block</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/SlashCommandsEditorBlock.PNG" alt=""><figcaption><p>The command creator block</p></figcaption></figure>
 
 Here are the parameters that this block need :&#x20;
 
@@ -49,7 +45,7 @@ If you need the user to specify a channel, an user, a role, or to give a number 
 
 You can add an argument by dragging a block in the arguments input of the command creator block. Here is an example :&#x20;
 
-<figure><img src="../.gitbook/assets/SlashCommandsEditorArg.PNG" alt=""><figcaption><p>A required text argument was added to the command.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/SlashCommandsEditorArg.PNG" alt=""><figcaption><p>A required text argument was added to the command.</p></figcaption></figure>
 
 #### Working with arguments
 
@@ -57,13 +53,13 @@ You can add an argument by dragging a block in the arguments input of the comman
 {% tab title="Required arguments" %}
 Required arguments are guaranteed to contain a value, since Discord doesn't allow users to send a command if an optional argument isn't valid. You can directly get the value of this argument :&#x20;
 
-<figure><img src="../.gitbook/assets/SlashCommandsEditorArgRequired.PNG" alt=""><figcaption><p>We directly get the value of the text argument.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/SlashCommandsEditorArgRequired.PNG" alt=""><figcaption><p>We directly get the value of the text argument.</p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Optional arguments" %}
 Optional arguments may contain a value, but could also be undefined if the user didn't gave a value. Before using these arguments, you should check that they was defined by the user :&#x20;
 
-<figure><img src="../.gitbook/assets/SlashCommandsEditorArgOptional.PNG" alt=""><figcaption><p>We check that the text argument was defined before using it. If the user didn't gave a value for this argument, it will contain <code>null</code>.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/SlashCommandsEditorArgOptional.PNG" alt=""><figcaption><p>We check that the text argument was defined before using it. If the user didn't gave a value for this argument, it will contain <code>null</code>.</p></figcaption></figure>
 
 {% hint style="danger" %}
 If you use optional arguments, you must ensure that you're using a defined argument. If you want to work on an user, a role, or anything else with an undefined argument, you will get an error, and the bot won't work.
@@ -83,10 +79,10 @@ If the bot didn't loaded as many commands as you expected, there may be a proble
 
 You can also define permissions for your commands, so that only authorized users can use them ! Go in your server's integrations settings, then select Disblock, and you will see a list of all commands enabled on your server :&#x20;
 
-<figure><img src="../.gitbook/assets/IntegrationCommandsList.PNG" alt=""><figcaption><p>The command list on Discord. You can see and manage every commands enabled on your server here.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/IntegrationCommandsList.PNG" alt=""><figcaption><p>The command list on Discord. You can see and manage every commands enabled on your server here.</p></figcaption></figure>
 
 By clicking on a command, you will open the permissions editor for this command :&#x20;
 
-<figure><img src="../.gitbook/assets/IntegrationCommandsListConfig.PNG" alt=""><figcaption><p>You can manage a specific command permissions here.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/IntegrationCommandsListConfig.PNG" alt=""><figcaption><p>You can manage a specific command permissions here.</p></figcaption></figure>
 
 This editor allow you to restrict who can use this command, and where.

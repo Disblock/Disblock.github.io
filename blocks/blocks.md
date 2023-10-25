@@ -20,22 +20,7 @@ When using values blocks with others blocks, you must be careful of the type ret
 
 Here is a list of available types in DIsblock :
 
-| Variable type | Explanations                                                               |
-| ------------- | -------------------------------------------------------------------------- |
-| String        | A text - Can be a word, a sentence, ...                                    |
-| Number        | Also called Integer, that represent a number.                              |
-| List          | Can contain any type of elements.                                          |
-| Color         | A color.                                                                   |
-| Boolean       | Can be **True** or **False**, generally used with If/Else blocs.           |
-| User          | Someone in your Discord server.                                            |
-| TextChannel   | A text channel within your server.                                         |
-| VoiceChannel  | A voice channel within your server.                                        |
-| ThreadChannel | A Thread channel within a text channel.                                    |
-| Category      | A category within your server.                                             |
-| Message       | A message sent by an user.                                                 |
-| EmbedMessage  | An embed message, to send somewhere on your server.                        |
-| Rank          | Also called Role.                                                          |
-| Emoji         | An emoji from Discord ( globally available ), or from your DIscord server. |
+<table><thead><tr><th>Variable type</th><th width="374">Explanations </th></tr></thead><tbody><tr><td>String</td><td>A text - Can be a word, a sentence, ...</td></tr><tr><td>Number</td><td>Also called Integer, that represent a number.</td></tr><tr><td>List</td><td>Can contain any type of elements.</td></tr><tr><td>Color</td><td>A color. </td></tr><tr><td>Boolean</td><td>Can be <strong>True</strong> or <strong>False</strong>, generally used with If/Else blocs.</td></tr><tr><td>User</td><td>Someone in your Discord server.</td></tr><tr><td>TextChannel</td><td>A text channel within your server.</td></tr><tr><td>VoiceChannel</td><td>A voice channel within your server.</td></tr><tr><td>ThreadChannel</td><td>A Thread channel within a text channel.</td></tr><tr><td>Category</td><td>A category within your server.</td></tr><tr><td>Message</td><td>A message sent by an user.</td></tr><tr><td>EmbedMessage</td><td>An embed message, to send somewhere on your server.</td></tr><tr><td>Rank</td><td>Also called Role.</td></tr><tr><td>Emoji</td><td>An emoji from Discord ( globally available ), or from your DIscord server.</td></tr></tbody></table>
 
 ### Action blocks
 
