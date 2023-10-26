@@ -14,6 +14,8 @@ This feature is currently in alpha, if you come across a bug, please, report it 
 Before reading this, you should learn how to use the [.](./ "mention")
 {% endhint %}
 
+You can find all forms-related blocks in the Commands category within the editor
+
 ## How to create a form
 
 Forms are defined like a slash command, but instead of adding statements to execute, you just add a form creator block :&#x20;
